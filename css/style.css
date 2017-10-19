@@ -1,0 +1,10 @@
+body {
+  background-color: #000000; }
+  body p {
+    color: #ffffff; }
+  body h1 {
+    color: #333333; }
+  body h2 {
+    color: #777777; }
+  body header {
+    width: 100%; }
