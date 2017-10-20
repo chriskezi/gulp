@@ -8161,4 +8161,7 @@ body {
   padding: 40px;
   background-color: #ffffff;
   height: auto;
-  width: 50%; }
+  width: 100%; }
+
+.img-center {
+  margin: auto; }
