@@ -8151,7 +8151,7 @@ body {
     color: #ffffff; }
   body h1 {
     color: #ffffff; }
-  body h2 {
+  body h2, body h3 {
     color: #333333; }
   body header {
     width: 100%; }
@@ -8160,8 +8160,7 @@ body {
   margin: 20px 0;
   padding: 40px;
   background-color: #ffffff;
-  height: auto;
-  width: 100%; }
+  height: auto; }
 
 .img-center {
   margin: auto; }
