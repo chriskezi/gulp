@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/chriskezi/gulp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0",
+    "jquery": "^3.2.1",
+    "botstrap": "bootsrap#*",
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7"
+  }
+}

@@ -1,6 +1,12 @@
 {
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "gulp-bootstrap-configurator": "^0.4.1",
+    "gulp-bower": "0.0.13",
+    "gulp-inject": "^4.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^3.1.0",
+    "wiredep": "^4.0.0"
   }
 }

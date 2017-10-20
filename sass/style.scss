@@ -1,5 +1,11 @@
+$primary-color: #CF4647;
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,300);
+$font-family-base: 'Raleway', sans-serif;
+// Import bootstrap and fontawesome
+@import "bootstrap";
+@import "font-awesome";
 body{
-  background-color: #000000;
+  background-color: $primary-color;
   p{
     color: #ffffff;
   }
