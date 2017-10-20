@@ -8145,12 +8145,20 @@ button.close {
   clip: auto; }
 
 body {
-  background-color: #CF4647; }
+  background-color: #CF4647;
+  margin: 20px 0 0 0; }
   body p {
     color: #ffffff; }
   body h1 {
-    color: #000000; }
+    color: #ffffff; }
   body h2 {
-    color: #777777; }
+    color: #333333; }
   body header {
     width: 100%; }
+
+.box {
+  margin: 20px 0;
+  padding: 40px;
+  background-color: #ffffff;
+  height: auto;
+  width: 50%; }

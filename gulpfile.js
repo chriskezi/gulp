@@ -37,3 +37,14 @@ gulp.task('make-bootstrap-js', function(){
     .pipe(gulp.dest("./assets"));
     // It will create `bootstrap.js` in directory `assets`.
 });
+
+// imagemin
+
+var gulp = require('gulp');
+var imagemin = require('gulp-imagemin');
+
+gulp.task('default', () =>
+	gulp.src('src/images/*')
+		.pipe(imagemin())
+		.pipe(gulp.dest('dist/images'))
+);
